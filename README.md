@@ -1,1 +1,1 @@
-"# SensorDataWebPanel" 
+Web panel to read measurement data (humidity, temperature, pressure with timestamp) provided by a REST API. The application is implemented in Vue.js and LabView and offers two switchable views: a table and a chart.
